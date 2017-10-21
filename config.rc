@@ -1,0 +1,13 @@
+DB_NAME=owncloud
+DB_USER=owncloud
+DB_PASS=FTNtDC7JuVTaPvPU 
+
+ADMIN_USER=admin
+ADMIN_PASS=6mTtvaTvLoqsoVg
+
+WWW_DIR=/var/www/owncloud
+DATA_DIR=/var/lib/owncloud
+URL_ALIAS=owncloud
+
+VER=10.0.3
+
